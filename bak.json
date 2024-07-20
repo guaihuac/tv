@@ -1,0 +1,137 @@
+{
+  "spider": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "logo": "https://qixing.myhkw.com/tw.jpg",
+  "lives": [],
+  "sites": [
+    {
+      "key": "https://5721004.xyz/player/pandalive.html",
+      "name": "pandalive",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "作者": "91md.ws",
+        "站名": "https://5721004.xyz/player/pandalive.html",
+        "主页url": "https://5721004.xyz/player/list.m3u",
+        "直接播放": "1",
+        "分类": "麻豆视频$1",
+        "分类url": "https://5721004.xyz/player/list.m3u",
+        "链接": "href=\"&&\"",
+        "截取前": "#EXTINF:-1"
+      }
+    },
+    {
+      "key": "https://www.bt4.cc/",
+      "name": "91麻豆",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "作者": "91md.ws",
+        "站名": "https://www.bt4.cc/",
+        "主页url": "https://www.bt4.cc/",
+        "直接播放": "1",
+        "分类": "麻豆视频$1#91制片厂$2#天美传媒$3#蜜桃传媒$4#皇家华人$5#星空传媒$6#精东影业$7#乐播传媒$8#成人头条$9#乌鸦传媒$10#兔子先生$20#杏吧原创$21#玩偶姐姐$22#mini传媒$23#大象传媒$24#开心鬼传媒$25#萝莉社$29#PsychoPorn$26#糖心Vlog$27#性视界$30",
+        "分类url": "https://www.bt4.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "链接": "href=\"&&\"",
+        "截取前": "class=\"detail\"",
+        "截取后": "class=\"footer\""
+      }
+    },
+    {
+      "key": "https://lamei.tv/",
+      "name": "辣妹",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "作者": "91md.ws",
+        "站名": "https://lamei.tv/",
+        "主页url": "https://lamei.tv/",
+        "直接播放": "1",
+        "分类": "AI换脸$67/#国产情色$53/#国产传媒$86/#探花系列$87/#自拍偷拍$66/#口爆颜射$88/#网曝黑料$83/#制服诱惑$63/#岛国素人$89/#巨乳美乳$62/#萌妹萝莉$70/#国产主播$61/#情色乱伦$59/#岛国群交$90/#变态另类$60/#韩国主播$84/#欧美极品$57/#动漫精品$58/#VR视角$85/#熟女人妻$64/#中文字幕$56/#三级伦理$65/#海外明星$68/#日本无码$54/#福利视频$69/#AV解说$82/#日本有码$55/#女同性恋$72/#人妖系列$73",
+        "分类url": "https://lamei.tv/lmc/{cateId}-{catePg}/",
+        "链接": "href=\"&&\"",
+        "截取前": "class=\"hl-vod-list hl-wide-list clearfix\"",
+        "截取后": "class=\"hl-page-wrap hl-text-center cleafix \""
+      }
+    },
+    {
+      "key": "https://13av.com/",
+      "name": "13av",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "作者": "91md.ws",
+        "站名": "https://13av.com/",
+        "主页url": "https://13av.com/",
+        "请求头": "手机",
+        "直接播放": "1",
+        "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24",
+        "分类url": "https://13av.com/vodtype/{cateId}-{catePg}/",
+        "链接": "href=\"&&\"",
+        "截取前": "class=\"vodlist vodlist_hb clearfix\""
+      }
+    },
+    {
+      "key": "麻豆",
+      "name": "麻豆视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "作者": "91md.ws",
+        "站名": "https://www.91md.ws/",
+        "主页url": "https://www.91md.ws/",
+        "请求头": "手机",
+        "直接播放": "1",
+        "分类": "麻豆视频$1#91制片厂$2#天美传媒$3#蜜桃传媒$4#皇家华人$5#星空传媒$6#精东影业$7#乐播传媒$8#乌鸦传媒$9#兔子先生$10",
+        "分类url": "https://www.91md.ws/type/{cateId}-{catePg}.html",
+        "链接": "href=\"&&\""
+      }
+    },
+    {
+      "key": "hsck1.25img",
+      "name": "黄色仓库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "作者": "hsck1.25img",
+        "站名": "https://hsck1.25img.com",
+        "主页url": "https://hsck1.25img.com",
+        "请求头": "手机",
+        "直接播放": "1",
+        "分类": "国产新片$ycgc#无码中文字幕$wz#无码日本$rw#国产视频$gc",
+        "分类url": "https://hsck1.25img.com/?type={cateId}&p={catePg}",
+        "链接": "href=\"&&\"",
+        "截取前": "class=\"stui-vodlist clearfix\""
+      }
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "rules": [],
+  "ijk": [],
+  "ads": []
+}
